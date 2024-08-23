@@ -1,2 +1,2 @@
 # Projects
-This directly include all the Projects 
+This directory include all the Projects 
