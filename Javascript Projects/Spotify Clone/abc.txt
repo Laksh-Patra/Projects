@@ -1,0 +1,7 @@
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+font-family: "Varela Round", sans-serif;
